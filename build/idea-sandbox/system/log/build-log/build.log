@@ -2926,3 +2926,359 @@ java.lang.IllegalAccessException: symbolic reference class is not accessible: cl
 2021-05-28 15:55:48,673 [   1106]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
 2021-05-28 15:55:49,025 [   1458]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1468 ms
 2021-05-28 15:55:56,254 [   8687]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2021-05-28 16:10:10,402 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2021-05-28 16:10:10,402 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/Egor/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.4/b86eac6c6a0550d0f4deca1e3592f7d675034e11/ideaIC-2020.3.4/plugins/java/lib/jps-launcher.jar
+2021-05-28 16:10:10,846 [    444]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 362 ms
+2021-05-28 16:10:11,012 [    610]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Egor/IdeaProjects/test, global options path = E:/PastebinSender/build/idea-sandbox/config/options
+2021-05-28 16:10:11,318 [    916]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 306 ms
+2021-05-28 16:10:11,318 [    916]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2021-05-28 16:10:11,418 [   1016]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2021-05-28 16:10:11,423 [   1021]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2021-05-28 16:10:12,580 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2021-05-28 16:10:12,580 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/Egor/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.4/b86eac6c6a0550d0f4deca1e3592f7d675034e11/ideaIC-2020.3.4/plugins/java/lib/jps-launcher.jar
+2021-05-28 16:10:13,202 [    622]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 537 ms
+2021-05-28 16:10:13,229 [    649]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2021-05-28 16:10:13,273 [    693]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Egor/IdeaProjects/test, global options path = E:/PastebinSender/build/idea-sandbox/config/options
+2021-05-28 16:10:13,685 [   1105]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 412 ms
+2021-05-28 16:10:13,685 [   1105]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2021-05-28 16:10:13,824 [   1244]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2021-05-28 16:10:13,833 [   1253]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2021-05-28 16:10:14,166 [   1586]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1596 ms
+2021-05-28 16:10:28,781 [  16201]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2021-05-28 16:14:42,004 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2021-05-28 16:14:42,004 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/Egor/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.4/b86eac6c6a0550d0f4deca1e3592f7d675034e11/ideaIC-2020.3.4/plugins/java/lib/jps-launcher.jar
+2021-05-28 16:14:42,299 [    295]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 236 ms
+2021-05-28 16:14:42,453 [    449]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Egor/IdeaProjects/test, global options path = E:/PastebinSender/build/idea-sandbox/config/options
+2021-05-28 16:14:42,783 [    779]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 330 ms
+2021-05-28 16:14:42,783 [    779]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2021-05-28 16:14:42,882 [    878]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2021-05-28 16:14:42,890 [    886]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2021-05-28 16:14:44,145 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2021-05-28 16:14:44,145 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/Egor/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.4/b86eac6c6a0550d0f4deca1e3592f7d675034e11/ideaIC-2020.3.4/plugins/java/lib/jps-launcher.jar
+2021-05-28 16:14:44,473 [    328]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 230 ms
+2021-05-28 16:14:44,492 [    347]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2021-05-28 16:14:44,527 [    382]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Egor/IdeaProjects/test, global options path = E:/PastebinSender/build/idea-sandbox/config/options
+2021-05-28 16:14:44,740 [    595]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 213 ms
+2021-05-28 16:14:44,741 [    596]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2021-05-28 16:14:44,814 [    669]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2021-05-28 16:14:44,822 [    677]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2021-05-28 16:14:44,961 [    816]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 828 ms
+2021-05-28 16:14:55,943 [  11798]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2021-05-28 16:15:14,359 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2021-05-28 16:15:14,359 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/Egor/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.4/b86eac6c6a0550d0f4deca1e3592f7d675034e11/ideaIC-2020.3.4/plugins/java/lib/jps-launcher.jar
+2021-05-28 16:15:14,720 [    361]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 284 ms
+2021-05-28 16:15:14,926 [    567]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Egor/IdeaProjects/test, global options path = E:/PastebinSender/build/idea-sandbox/config/options
+2021-05-28 16:15:15,283 [    924]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 356 ms
+2021-05-28 16:15:15,283 [    924]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2021-05-28 16:15:15,390 [   1031]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2021-05-28 16:15:15,395 [   1036]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2021-05-28 16:15:16,205 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2021-05-28 16:15:16,205 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/Egor/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.4/b86eac6c6a0550d0f4deca1e3592f7d675034e11/ideaIC-2020.3.4/plugins/java/lib/jps-launcher.jar
+2021-05-28 16:15:16,480 [    275]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 213 ms
+2021-05-28 16:15:16,494 [    289]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2021-05-28 16:15:16,517 [    312]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Egor/IdeaProjects/test, global options path = E:/PastebinSender/build/idea-sandbox/config/options
+2021-05-28 16:15:16,749 [    544]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 231 ms
+2021-05-28 16:15:16,749 [    544]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2021-05-28 16:15:16,826 [    621]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2021-05-28 16:15:16,831 [    626]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2021-05-28 16:15:16,971 [    766]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 777 ms
+2021-05-28 16:15:24,086 [   7881]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2021-05-28 16:16:32,653 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2021-05-28 16:16:32,653 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/Egor/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.4/b86eac6c6a0550d0f4deca1e3592f7d675034e11/ideaIC-2020.3.4/plugins/java/lib/jps-launcher.jar
+2021-05-28 16:16:32,973 [    320]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 272 ms
+2021-05-28 16:16:33,150 [    497]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Egor/IdeaProjects/test, global options path = E:/PastebinSender/build/idea-sandbox/config/options
+2021-05-28 16:16:33,358 [    705]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 208 ms
+2021-05-28 16:16:33,358 [    705]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2021-05-28 16:16:33,431 [    778]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2021-05-28 16:16:33,448 [    795]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2021-05-28 16:16:34,373 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2021-05-28 16:16:34,374 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/Egor/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.4/b86eac6c6a0550d0f4deca1e3592f7d675034e11/ideaIC-2020.3.4/plugins/java/lib/jps-launcher.jar
+2021-05-28 16:16:34,705 [    332]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 252 ms
+2021-05-28 16:16:34,719 [    346]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2021-05-28 16:16:34,747 [    374]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Egor/IdeaProjects/test, global options path = E:/PastebinSender/build/idea-sandbox/config/options
+2021-05-28 16:16:34,952 [    579]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 204 ms
+2021-05-28 16:16:34,952 [    579]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2021-05-28 16:16:35,029 [    656]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2021-05-28 16:16:35,035 [    662]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2021-05-28 16:16:35,317 [    944]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 955 ms
+2021-05-28 16:16:41,764 [   7391]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2021-05-28 16:18:29,223 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2021-05-28 16:18:29,223 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/Egor/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.4/b86eac6c6a0550d0f4deca1e3592f7d675034e11/ideaIC-2020.3.4/plugins/java/lib/jps-launcher.jar
+2021-05-28 16:18:29,853 [    630]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 540 ms
+2021-05-28 16:18:30,010 [    787]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Egor/IdeaProjects/test, global options path = E:/PastebinSender/build/idea-sandbox/config/options
+2021-05-28 16:18:30,369 [   1146]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 358 ms
+2021-05-28 16:18:30,369 [   1146]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2021-05-28 16:18:30,452 [   1229]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2021-05-28 16:18:30,457 [   1234]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2021-05-28 16:18:31,588 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2021-05-28 16:18:31,589 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/Egor/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.4/b86eac6c6a0550d0f4deca1e3592f7d675034e11/ideaIC-2020.3.4/plugins/java/lib/jps-launcher.jar
+2021-05-28 16:18:32,012 [    424]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 376 ms
+2021-05-28 16:18:32,044 [    456]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2021-05-28 16:18:32,113 [    525]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Egor/IdeaProjects/test, global options path = E:/PastebinSender/build/idea-sandbox/config/options
+2021-05-28 16:18:32,621 [   1033]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 507 ms
+2021-05-28 16:18:32,621 [   1033]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2021-05-28 16:18:32,738 [   1150]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2021-05-28 16:18:32,744 [   1156]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2021-05-28 16:18:32,887 [   1299]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1308 ms
+2021-05-28 16:19:36,559 [  64971]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2021-05-28 16:19:36,561 [  64973]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2021-05-28 16:19:36,561 [  64973]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2021-05-28 16:19:36,565 [  64977]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2021-05-28 16:19:36,565 [  64977]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 6062968
+2021-05-28 16:19:36,615 [  65027]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 1 ms
+2021-05-28 16:19:37,094 [  65506]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 441 ms
+2021-05-28 16:19:37,101 [  65513]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 450 ms
+2021-05-28 16:19:37,117 [  65529]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: test
+2021-05-28 16:19:37,609 [  66021]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2021-05-28 16:19:37,643 [  66055]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 432 ms; 1 sources processed (432 ms per file)
+2021-05-28 16:19:37,645 [  66057]   INFO - s.incremental.java.JavaBuilder - javac 15.0.2 was used to compile [test]
+2021-05-28 16:19:38,447 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2021-05-28 16:19:38,448 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/Egor/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.4/b86eac6c6a0550d0f4deca1e3592f7d675034e11/ideaIC-2020.3.4/plugins/java/lib/jps-launcher.jar
+2021-05-28 16:19:38,693 [    246]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 181 ms
+2021-05-28 16:19:38,703 [    256]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2021-05-28 16:19:38,720 [    273]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Egor/IdeaProjects/test, global options path = E:/PastebinSender/build/idea-sandbox/config/options
+2021-05-28 16:19:38,887 [    440]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 167 ms
+2021-05-28 16:19:38,887 [    440]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2021-05-28 16:19:38,948 [    501]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2021-05-28 16:19:38,952 [    505]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2021-05-28 16:19:39,035 [    588]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 599 ms
+2021-05-28 16:20:13,893 [  35446]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2021-05-28 16:20:13,896 [  35449]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2021-05-28 16:20:13,896 [  35449]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2021-05-28 16:20:13,900 [  35453]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2021-05-28 16:20:13,900 [  35453]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started c2e3b86d
+2021-05-28 16:20:13,951 [  35504]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 1 ms
+2021-05-28 16:20:14,506 [  36059]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 516 ms
+2021-05-28 16:20:14,515 [  36068]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 526 ms
+2021-05-28 16:20:14,534 [  36087]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: test
+2021-05-28 16:20:14,964 [  36517]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2021-05-28 16:20:14,996 [  36549]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 416 ms; 1 sources processed (416 ms per file)
+2021-05-28 16:20:14,998 [  36551]   INFO - s.incremental.java.JavaBuilder - javac 15.0.2 was used to compile [test]
+2021-05-28 16:20:15,436 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2021-05-28 16:20:15,437 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/Egor/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.4/b86eac6c6a0550d0f4deca1e3592f7d675034e11/ideaIC-2020.3.4/plugins/java/lib/jps-launcher.jar
+2021-05-28 16:20:15,678 [    242]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 173 ms
+2021-05-28 16:20:15,688 [    252]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2021-05-28 16:20:15,704 [    268]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Egor/IdeaProjects/test, global options path = E:/PastebinSender/build/idea-sandbox/config/options
+2021-05-28 16:20:15,861 [    425]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 157 ms
+2021-05-28 16:20:15,861 [    425]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2021-05-28 16:20:15,922 [    486]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2021-05-28 16:20:15,926 [    490]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2021-05-28 16:20:16,016 [    580]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 587 ms
+2021-05-28 16:20:22,606 [   7170]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2021-05-28 16:20:22,609 [   7173]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2021-05-28 16:20:22,609 [   7173]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2021-05-28 16:20:22,612 [   7176]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2021-05-28 16:20:22,613 [   7177]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 639bf66a
+2021-05-28 16:20:22,667 [   7231]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 1 ms
+2021-05-28 16:20:23,119 [   7683]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 409 ms
+2021-05-28 16:20:23,127 [   7691]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 418 ms
+2021-05-28 16:20:23,143 [   7707]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: test
+2021-05-28 16:20:23,579 [   8143]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2021-05-28 16:20:23,610 [   8174]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 423 ms; 1 sources processed (423 ms per file)
+2021-05-28 16:20:23,611 [   8175]   INFO - s.incremental.java.JavaBuilder - javac 15.0.2 was used to compile [test]
+2021-05-28 16:20:24,000 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2021-05-28 16:20:24,000 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/Egor/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.4/b86eac6c6a0550d0f4deca1e3592f7d675034e11/ideaIC-2020.3.4/plugins/java/lib/jps-launcher.jar
+2021-05-28 16:20:24,211 [    211]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 174 ms
+2021-05-28 16:20:24,221 [    221]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2021-05-28 16:20:24,236 [    236]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Egor/IdeaProjects/test, global options path = E:/PastebinSender/build/idea-sandbox/config/options
+2021-05-28 16:20:24,392 [    392]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 156 ms
+2021-05-28 16:20:24,392 [    392]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2021-05-28 16:20:24,452 [    452]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2021-05-28 16:20:24,456 [    456]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2021-05-28 16:20:24,539 [    539]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 547 ms
+2021-05-28 16:20:31,440 [   7440]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2021-05-28 16:20:31,442 [   7442]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2021-05-28 16:20:31,442 [   7442]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2021-05-28 16:20:31,445 [   7445]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2021-05-28 16:20:31,446 [   7446]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 7b835f8b
+2021-05-28 16:20:31,497 [   7497]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 1 ms
+2021-05-28 16:20:31,944 [   7944]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 409 ms
+2021-05-28 16:20:31,951 [   7951]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 417 ms
+2021-05-28 16:20:31,968 [   7968]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: test
+2021-05-28 16:20:32,403 [   8403]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2021-05-28 16:20:32,433 [   8433]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 422 ms; 1 sources processed (422 ms per file)
+2021-05-28 16:20:32,435 [   8435]   INFO - s.incremental.java.JavaBuilder - javac 15.0.2 was used to compile [test]
+2021-05-28 16:20:32,881 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2021-05-28 16:20:32,882 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/Egor/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.4/b86eac6c6a0550d0f4deca1e3592f7d675034e11/ideaIC-2020.3.4/plugins/java/lib/jps-launcher.jar
+2021-05-28 16:20:33,100 [    219]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 172 ms
+2021-05-28 16:20:33,109 [    228]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2021-05-28 16:20:33,127 [    246]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Egor/IdeaProjects/test, global options path = E:/PastebinSender/build/idea-sandbox/config/options
+2021-05-28 16:20:33,287 [    406]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 159 ms
+2021-05-28 16:20:33,287 [    406]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2021-05-28 16:20:33,346 [    465]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2021-05-28 16:20:33,350 [    469]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2021-05-28 16:20:33,433 [    552]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 561 ms
+2021-05-28 16:20:59,461 [  26580]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2021-05-28 16:20:59,463 [  26582]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2021-05-28 16:20:59,463 [  26582]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2021-05-28 16:20:59,466 [  26585]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2021-05-28 16:20:59,466 [  26585]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 9a0af4c1
+2021-05-28 16:20:59,513 [  26632]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 1 ms
+2021-05-28 16:20:59,930 [  27049]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 382 ms
+2021-05-28 16:20:59,938 [  27057]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 391 ms
+2021-05-28 16:20:59,955 [  27074]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: test
+2021-05-28 16:21:00,388 [  27507]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2021-05-28 16:21:00,419 [  27538]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 420 ms; 1 sources processed (420 ms per file)
+2021-05-28 16:21:00,421 [  27540]   INFO - s.incremental.java.JavaBuilder - javac 15.0.2 was used to compile [test]
+2021-05-28 16:21:01,132 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2021-05-28 16:21:01,133 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/Egor/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.4/b86eac6c6a0550d0f4deca1e3592f7d675034e11/ideaIC-2020.3.4/plugins/java/lib/jps-launcher.jar
+2021-05-28 16:21:01,336 [    204]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 166 ms
+2021-05-28 16:21:01,345 [    213]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2021-05-28 16:21:01,361 [    229]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Egor/IdeaProjects/test, global options path = E:/PastebinSender/build/idea-sandbox/config/options
+2021-05-28 16:21:01,521 [    389]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 159 ms
+2021-05-28 16:21:01,521 [    389]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2021-05-28 16:21:01,582 [    450]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2021-05-28 16:21:01,586 [    454]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2021-05-28 16:21:01,671 [    539]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 547 ms
+2021-05-28 16:21:17,505 [  16373]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2021-05-28 16:21:17,507 [  16375]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2021-05-28 16:21:17,507 [  16375]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2021-05-28 16:21:17,510 [  16378]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2021-05-28 16:21:17,511 [  16379]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started fd30e94d
+2021-05-28 16:21:17,561 [  16429]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 1 ms
+2021-05-28 16:21:17,980 [  16848]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 384 ms
+2021-05-28 16:21:17,987 [  16855]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 393 ms
+2021-05-28 16:21:18,006 [  16874]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: test
+2021-05-28 16:21:18,502 [  17370]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2021-05-28 16:21:18,547 [  17415]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 469 ms; 1 sources processed (469 ms per file)
+2021-05-28 16:21:18,549 [  17417]   INFO - s.incremental.java.JavaBuilder - javac 15.0.2 was used to compile [test]
+2021-05-28 16:21:18,968 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2021-05-28 16:21:18,968 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/Egor/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.4/b86eac6c6a0550d0f4deca1e3592f7d675034e11/ideaIC-2020.3.4/plugins/java/lib/jps-launcher.jar
+2021-05-28 16:21:19,178 [    210]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 171 ms
+2021-05-28 16:21:19,188 [    220]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2021-05-28 16:21:19,203 [    235]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Egor/IdeaProjects/test, global options path = E:/PastebinSender/build/idea-sandbox/config/options
+2021-05-28 16:21:19,361 [    393]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 158 ms
+2021-05-28 16:21:19,362 [    394]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2021-05-28 16:21:19,421 [    453]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2021-05-28 16:21:19,425 [    457]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2021-05-28 16:21:19,509 [    541]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 549 ms
+2021-05-28 16:22:35,174 [  76206]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2021-05-28 16:22:35,177 [  76209]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2021-05-28 16:22:35,177 [  76209]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2021-05-28 16:22:35,182 [  76214]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2021-05-28 16:22:35,182 [  76214]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 49fb33a5
+2021-05-28 16:22:35,240 [  76272]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 2 ms
+2021-05-28 16:22:35,696 [  76728]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 412 ms
+2021-05-28 16:22:35,703 [  76735]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 421 ms
+2021-05-28 16:22:35,726 [  76758]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: test
+2021-05-28 16:22:36,163 [  77195]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2021-05-28 16:22:36,194 [  77226]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 424 ms; 1 sources processed (424 ms per file)
+2021-05-28 16:22:36,195 [  77227]   INFO - s.incremental.java.JavaBuilder - javac 15.0.2 was used to compile [test]
+2021-05-28 16:22:36,661 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2021-05-28 16:22:36,661 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/Egor/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.4/b86eac6c6a0550d0f4deca1e3592f7d675034e11/ideaIC-2020.3.4/plugins/java/lib/jps-launcher.jar
+2021-05-28 16:22:36,865 [    204]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 166 ms
+2021-05-28 16:22:36,875 [    214]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2021-05-28 16:22:36,890 [    229]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Egor/IdeaProjects/test, global options path = E:/PastebinSender/build/idea-sandbox/config/options
+2021-05-28 16:22:37,052 [    391]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 160 ms
+2021-05-28 16:22:37,052 [    391]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2021-05-28 16:22:37,115 [    454]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2021-05-28 16:22:37,119 [    458]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2021-05-28 16:22:37,205 [    544]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 553 ms
+2021-05-28 16:23:23,906 [  47245]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2021-05-28 16:23:23,908 [  47247]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2021-05-28 16:23:23,908 [  47247]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2021-05-28 16:23:23,911 [  47250]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2021-05-28 16:23:23,911 [  47250]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 71e24b35
+2021-05-28 16:23:23,962 [  47301]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 2 ms
+2021-05-28 16:23:24,422 [  47761]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 423 ms
+2021-05-28 16:23:24,430 [  47769]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 432 ms
+2021-05-28 16:23:24,447 [  47786]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: test
+2021-05-28 16:23:24,896 [  48235]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2021-05-28 16:23:24,928 [  48267]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 433 ms; 1 sources processed (433 ms per file)
+2021-05-28 16:23:24,930 [  48269]   INFO - s.incremental.java.JavaBuilder - javac 15.0.2 was used to compile [test]
+2021-05-28 16:23:25,322 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2021-05-28 16:23:25,323 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/Egor/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.4/b86eac6c6a0550d0f4deca1e3592f7d675034e11/ideaIC-2020.3.4/plugins/java/lib/jps-launcher.jar
+2021-05-28 16:23:25,529 [    207]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 169 ms
+2021-05-28 16:23:25,538 [    216]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2021-05-28 16:23:25,554 [    232]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Egor/IdeaProjects/test, global options path = E:/PastebinSender/build/idea-sandbox/config/options
+2021-05-28 16:23:25,711 [    389]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 156 ms
+2021-05-28 16:23:25,711 [    389]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2021-05-28 16:23:25,770 [    448]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2021-05-28 16:23:25,774 [    452]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2021-05-28 16:23:25,858 [    536]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 544 ms
+2021-05-28 16:23:31,101 [   5779]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2021-05-28 16:23:31,104 [   5782]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2021-05-28 16:23:31,104 [   5782]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2021-05-28 16:23:31,108 [   5786]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2021-05-28 16:23:31,108 [   5786]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 2f8916b0
+2021-05-28 16:23:31,163 [   5841]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 1 ms
+2021-05-28 16:23:31,612 [   6290]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 411 ms
+2021-05-28 16:23:31,620 [   6298]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 421 ms
+2021-05-28 16:23:31,638 [   6316]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: test
+2021-05-28 16:23:32,074 [   6752]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2021-05-28 16:23:32,103 [   6781]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 425 ms; 1 sources processed (425 ms per file)
+2021-05-28 16:23:32,105 [   6783]   INFO - s.incremental.java.JavaBuilder - javac 15.0.2 was used to compile [test]
+2021-05-28 16:23:32,473 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2021-05-28 16:23:32,473 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/Egor/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.4/b86eac6c6a0550d0f4deca1e3592f7d675034e11/ideaIC-2020.3.4/plugins/java/lib/jps-launcher.jar
+2021-05-28 16:23:32,674 [    201]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 165 ms
+2021-05-28 16:23:32,684 [    211]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2021-05-28 16:23:32,699 [    226]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Egor/IdeaProjects/test, global options path = E:/PastebinSender/build/idea-sandbox/config/options
+2021-05-28 16:23:32,858 [    385]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 158 ms
+2021-05-28 16:23:32,858 [    385]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2021-05-28 16:23:32,916 [    443]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2021-05-28 16:23:32,920 [    447]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2021-05-28 16:23:33,003 [    530]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 539 ms
+2021-05-28 16:23:48,245 [  15772]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2021-05-28 16:23:48,247 [  15774]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2021-05-28 16:23:48,247 [  15774]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2021-05-28 16:23:48,251 [  15778]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2021-05-28 16:23:48,251 [  15778]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started ae877b46
+2021-05-28 16:23:48,301 [  15828]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 1 ms
+2021-05-28 16:23:48,736 [  16263]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 398 ms
+2021-05-28 16:23:48,743 [  16270]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 406 ms
+2021-05-28 16:23:48,761 [  16288]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: test
+2021-05-28 16:23:49,197 [  16724]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2021-05-28 16:23:49,229 [  16756]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 423 ms; 1 sources processed (423 ms per file)
+2021-05-28 16:23:49,231 [  16758]   INFO - s.incremental.java.JavaBuilder - javac 15.0.2 was used to compile [test]
+2021-05-28 16:23:49,621 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2021-05-28 16:23:49,621 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/Egor/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.4/b86eac6c6a0550d0f4deca1e3592f7d675034e11/ideaIC-2020.3.4/plugins/java/lib/jps-launcher.jar
+2021-05-28 16:23:49,825 [    204]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 168 ms
+2021-05-28 16:23:49,835 [    214]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2021-05-28 16:23:49,850 [    229]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Egor/IdeaProjects/test, global options path = E:/PastebinSender/build/idea-sandbox/config/options
+2021-05-28 16:23:50,006 [    385]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 155 ms
+2021-05-28 16:23:50,006 [    385]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2021-05-28 16:23:50,066 [    445]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2021-05-28 16:23:50,070 [    449]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2021-05-28 16:23:50,154 [    533]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 541 ms
+2021-05-28 16:23:53,141 [   3520]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2021-05-28 16:23:53,143 [   3522]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2021-05-28 16:23:53,143 [   3522]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2021-05-28 16:23:53,146 [   3525]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2021-05-28 16:23:53,146 [   3525]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 5d1cea09
+2021-05-28 16:23:53,195 [   3574]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 1 ms
+2021-05-28 16:23:53,624 [   4003]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 391 ms
+2021-05-28 16:23:53,632 [   4011]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 401 ms
+2021-05-28 16:23:53,648 [   4027]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: test
+2021-05-28 16:23:54,090 [   4469]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2021-05-28 16:23:54,120 [   4499]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 427 ms; 1 sources processed (427 ms per file)
+2021-05-28 16:23:54,121 [   4500]   INFO - s.incremental.java.JavaBuilder - javac 15.0.2 was used to compile [test]
+2021-05-28 16:23:54,544 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2021-05-28 16:23:54,545 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/Egor/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.4/b86eac6c6a0550d0f4deca1e3592f7d675034e11/ideaIC-2020.3.4/plugins/java/lib/jps-launcher.jar
+2021-05-28 16:23:54,749 [    205]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 167 ms
+2021-05-28 16:23:54,759 [    215]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2021-05-28 16:23:54,775 [    231]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Egor/IdeaProjects/test, global options path = E:/PastebinSender/build/idea-sandbox/config/options
+2021-05-28 16:23:54,935 [    391]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 159 ms
+2021-05-28 16:23:54,935 [    391]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2021-05-28 16:23:54,998 [    454]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2021-05-28 16:23:55,003 [    459]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2021-05-28 16:23:55,092 [    548]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 557 ms
+2021-05-28 16:24:23,576 [  29032]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2021-05-28 16:25:37,025 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2021-05-28 16:25:37,025 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/Egor/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.4/b86eac6c6a0550d0f4deca1e3592f7d675034e11/ideaIC-2020.3.4/plugins/java/lib/jps-launcher.jar
+2021-05-28 16:25:37,496 [    471]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 340 ms
+2021-05-28 16:25:37,620 [    595]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Egor/IdeaProjects/test, global options path = E:/PastebinSender/build/idea-sandbox/config/options
+2021-05-28 16:25:37,876 [    851]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 255 ms
+2021-05-28 16:25:37,876 [    851]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2021-05-28 16:25:37,954 [    929]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2021-05-28 16:25:37,959 [    934]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2021-05-28 16:25:39,146 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2021-05-28 16:25:39,147 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/Egor/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.4/b86eac6c6a0550d0f4deca1e3592f7d675034e11/ideaIC-2020.3.4/plugins/java/lib/jps-launcher.jar
+2021-05-28 16:25:39,558 [    412]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 361 ms
+2021-05-28 16:25:39,576 [    430]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2021-05-28 16:25:39,642 [    496]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Egor/IdeaProjects/test, global options path = E:/PastebinSender/build/idea-sandbox/config/options
+2021-05-28 16:25:39,885 [    739]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 244 ms
+2021-05-28 16:25:39,885 [    739]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2021-05-28 16:25:39,979 [    833]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2021-05-28 16:25:39,986 [    840]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2021-05-28 16:25:40,100 [    954]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 964 ms
+2021-05-28 16:25:48,266 [   9120]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.

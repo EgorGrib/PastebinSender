@@ -1,0 +1,86 @@
+{
+  "appInfo" : {
+    "build" : "203.8084.24",
+    "buildDate" : "Tue, 27 Apr 2021 10:19:26 +0300",
+    "productCode" : "IC",
+    "generated" : "Fri, 28 May 2021 16:16:35 +0300",
+    "os" : "Windows 10 10.0",
+    "runtime" : "JetBrains s.r.o. 11.0.10 11.0.10+8-b1145.96"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 536870912,
+    "numberOfProcessors" : 6,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "test",
+    "numberOfFileProviders" : 8,
+    "totalNumberOfFiles" : 50538,
+    "totalNumberOfUpToDateFiles" : 50537,
+    "times" : {
+      "totalUpdatingTime" : "2 s 646 ms",
+      "indexingTime" : "20 ms",
+      "pushPropertiesTime" : "10 ms",
+      "updatingStart" : "Fri, 28 May 2021 16:16:32 +0300",
+      "updatingEnd" : "Fri, 28 May 2021 16:16:35 +0300",
+      "wasInterrupted" : false
+    },
+    "numberOfIndexingThreads" : 4,
+    "totalStatsPerFileType" : [ {
+      "fileType" : "XML",
+      "partOfTotalIndexingTime" : "100,0%",
+      "partOfTotalContentLoadingTime" : "100,0%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "22,82 kB",
+      "indexingSpeed" : "1,27 GB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'test'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "22,82 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100,0%"
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "filetypes",
+      "partOfTotalIndexingTime" : "50,6%",
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "22,82 kB",
+      "indexingSpeed" : "2,51 GB/s"
+    }, {
+      "indexId" : "FilenameIndex",
+      "partOfTotalIndexingTime" : "49,4%",
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "22,82 kB",
+      "indexingSpeed" : "2,56 GB/s"
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'test'",
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 1,
+      "totalIndexingTime" : "14 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "22,82 kB",
+        "partOfTotalIndexingTime" : "100,0%",
+        "partOfTotalContentLoadingTime" : "100,0%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "filetypes",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "50,6%"
+      }, {
+        "indexId" : "FilenameIndex",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "49,4%"
+      } ],
+      "fastIndexers" : [ ]
+    } ]
+  }
+}

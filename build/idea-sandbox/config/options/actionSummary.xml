@@ -4,25 +4,43 @@
       <i c="4" l="1622145485027" />
     </e>
     <e n="EditorBackSpace">
-      <i c="25" l="1622201820227" />
+      <i c="48" l="1622208250452" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="1" l="1622201822751" />
+      <i c="9" l="1622208224748" />
+    </e>
+    <e n="EditorDelete">
+      <i c="12" l="1622208143156" />
     </e>
     <e n="EditorEnter">
-      <i c="1" l="1622201821186" />
+      <i c="12" l="1622208254612" />
     </e>
     <e n="EditorIndentSelection">
       <i c="2" l="1622201813355" />
     </e>
+    <e n="EditorLeft">
+      <i c="1" l="1622208222373" />
+    </e>
+    <e n="EditorPaste">
+      <i c="1" l="1622207913277" />
+    </e>
+    <e n="EditorRight">
+      <i c="4" l="1622208221396" />
+    </e>
+    <e n="EditorUp">
+      <i c="1" l="1622207912610" />
+    </e>
     <e n="Run">
-      <i c="5" l="1622202257511" />
+      <i c="16" l="1622208233006" />
     </e>
     <e n="ShowProjectStructureSettings">
       <i c="6" l="1622194599428" />
     </e>
     <e n="ShowSettings">
       <i c="6" l="1622194463299" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="8" l="1622208101006" />
     </e>
     <e n="WelcomeScreen.CreateNewProject">
       <i c="4" l="1622201795164" />
@@ -38,6 +56,9 @@
     </e>
     <e n="com.intellij.ui.AnActionButton$AnActionButtonWrapper">
       <i c="2" l="1622194602040" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="4" l="1622208102116" />
     </e>
   </component>
 </application>
