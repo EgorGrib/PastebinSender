@@ -3282,3 +3282,22 @@ java.lang.IllegalAccessException: symbolic reference class is not accessible: cl
 2021-05-28 16:25:39,986 [    840]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
 2021-05-28 16:25:40,100 [    954]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 964 ms
 2021-05-28 16:25:48,266 [   9120]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2021-05-28 16:38:18,560 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2021-05-28 16:38:18,560 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/Egor/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.4/b86eac6c6a0550d0f4deca1e3592f7d675034e11/ideaIC-2020.3.4/plugins/java/lib/jps-launcher.jar
+2021-05-28 16:38:18,902 [    342]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 249 ms
+2021-05-28 16:38:19,037 [    477]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Egor/IdeaProjects/test, global options path = E:/PastebinSender/build/idea-sandbox/config/options
+2021-05-28 16:38:19,244 [    684]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 206 ms
+2021-05-28 16:38:19,244 [    684]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2021-05-28 16:38:19,319 [    759]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2021-05-28 16:38:19,324 [    764]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2021-05-28 16:38:20,418 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2021-05-28 16:38:20,418 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/Egor/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.4/b86eac6c6a0550d0f4deca1e3592f7d675034e11/ideaIC-2020.3.4/plugins/java/lib/jps-launcher.jar
+2021-05-28 16:38:21,069 [    651]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 489 ms
+2021-05-28 16:38:21,080 [    662]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2021-05-28 16:38:21,117 [    699]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Egor/IdeaProjects/test, global options path = E:/PastebinSender/build/idea-sandbox/config/options
+2021-05-28 16:38:21,322 [    904]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 204 ms
+2021-05-28 16:38:21,322 [    904]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2021-05-28 16:38:21,449 [   1031]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2021-05-28 16:38:21,459 [   1041]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2021-05-28 16:38:21,779 [   1361]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1408 ms
+2021-05-28 16:38:24,251 [   3833]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.

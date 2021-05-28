@@ -30,12 +30,13 @@ public class PastebinAction extends AnAction {
 
             SimpleDateFormat simpleDate = new SimpleDateFormat("[HH:mm yyyy.MM.dd]");
 
-            final PasteBuilder pasteBuilder = factory.createPaste();
-            pasteBuilder.setTitle("Paste from Idea " + simpleDate.format(new Date()));
-            pasteBuilder.setRaw(selectedCode);
-            pasteBuilder.setMachineFriendlyLanguage("java");
-            pasteBuilder.setVisiblity(PasteVisiblity.Public);
-            pasteBuilder.setExpire(PasteExpire.TenMinutes);
+            final PasteBuilder pasteBuilder = factory.createPaste().
+                    setTitle("Paste from Idea " + simpleDate.format(new Date())).
+                    setRaw(selectedCode).
+                    setMachineFriendlyLanguage("java").
+                    setVisiblity(PasteVisiblity.Public).
+                    setExpire(PasteExpire.TenMinutes);
+
             final Paste paste = pasteBuilder.build();
 
             System.out.println("Paste from Idea " + simpleDate.format(new Date()));
@@ -46,9 +47,11 @@ public class PastebinAction extends AnAction {
                         + postResult.getError(), "Pastebin Sender", Messages.getErrorIcon());
                 return;
             }
+
             Messages.showMessageDialog("Paste published! Now you will follow the link to see your paste. URL: "
                     + postResult.get(), "Pastebin Sender", Messages.getInformationIcon());
             BrowserUtil.browse(postResult.get());
+
         } else {
             Messages.showMessageDialog("Selection is empty, you should select some text!", "Pastebin Sender",
                     Messages.getErrorIcon());
