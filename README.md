@@ -4,3 +4,6 @@ Used auto build system [Gradle](https://gradle.org/) and IntelliJ Platform Plugi
 ## How to use
 1. Select the code which you want to share and send to Pastebin.com
 2. Use the keyboard shortcut "Ctrl + \\" to send the code and get the link.
+
+## Difficulties I faced
+When I was developing this plugin, I created too many pastes and I no longer have the ability to create new ones. It turns out there is a limit of only 10 pastes in 24 hours.
