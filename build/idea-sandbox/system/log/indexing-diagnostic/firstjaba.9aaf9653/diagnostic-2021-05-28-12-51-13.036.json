@@ -1,0 +1,86 @@
+{
+  "appInfo" : {
+    "build" : "203.8084.24",
+    "buildDate" : "Tue, 27 Apr 2021 10:19:04 +0300",
+    "productCode" : "IC",
+    "generated" : "Fri, 28 May 2021 12:51:13 +0300",
+    "os" : "Windows 10 10.0",
+    "runtime" : "JetBrains s.r.o. 11.0.10 11.0.10+8-b1145.96"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 536870912,
+    "numberOfProcessors" : 6,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "FirstJaba",
+    "numberOfFileProviders" : 8,
+    "totalNumberOfFiles" : 43979,
+    "totalNumberOfUpToDateFiles" : 43978,
+    "times" : {
+      "totalUpdatingTime" : "2 s 799 ms",
+      "indexingTime" : "18 ms",
+      "pushPropertiesTime" : "142 ms",
+      "updatingStart" : "Fri, 28 May 2021 12:51:10 +0300",
+      "updatingEnd" : "Fri, 28 May 2021 12:51:13 +0300",
+      "wasInterrupted" : false
+    },
+    "numberOfIndexingThreads" : 4,
+    "totalStatsPerFileType" : [ {
+      "fileType" : "XML",
+      "partOfTotalIndexingTime" : "100,0%",
+      "partOfTotalContentLoadingTime" : "100,0%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "5,85 kB",
+      "indexingSpeed" : "309,37 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'FirstJaba'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "5,85 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100,0%"
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "FilenameIndex",
+      "partOfTotalIndexingTime" : "59,3%",
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "5,85 kB",
+      "indexingSpeed" : "522,05 MB/s"
+    }, {
+      "indexId" : "filetypes",
+      "partOfTotalIndexingTime" : "40,7%",
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "5,85 kB",
+      "indexingSpeed" : "759,35 MB/s"
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'FirstJaba'",
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 1,
+      "totalIndexingTime" : "12 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "5,85 kB",
+        "partOfTotalIndexingTime" : "100,0%",
+        "partOfTotalContentLoadingTime" : "100,0%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "FilenameIndex",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "59,3%"
+      }, {
+        "indexId" : "filetypes",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "40,7%"
+      } ],
+      "fastIndexers" : [ ]
+    } ]
+  }
+}

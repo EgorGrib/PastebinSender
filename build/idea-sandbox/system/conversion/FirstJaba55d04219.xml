@@ -1,0 +1,14 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+  </applied-converters>
+  <project-files>
+    <f p="./.idea\modules.xml" t="1613224325" />
+    <f p="./.idea\project-template.xml" t="1613224181" />
+    <f p="./FirstJaba.iml" t="1613224325" />
+    <f p="./.idea\encodings.xml" t="1613224325" />
+    <f p="./.idea\misc.xml" t="1622194480" />
+    <f p="./.idea\workspace.xml" t="1622197555" />
+  </project-files>
+</conversion>

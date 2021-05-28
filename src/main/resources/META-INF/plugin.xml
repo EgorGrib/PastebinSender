@@ -1,0 +1,22 @@
+<idea-plugin>
+    <id>org.example.PastebinSender</id>
+    <name>Pastebin Sender</name>
+    <vendor email="egor111orexov@gmail.com" url="https://github.com/EgorGrib">Egor Sharapkov</vendor>
+
+    <description><![CDATA[
+        A simple plugin with which you can easily send the selected code to pastebin.com
+    ]]></description>
+
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+    </extensions>
+
+    <actions>
+        <action id="PastebinAction" class="PastebinAction" text="Pastebin Action" description="Sends the selected code">
+            <keyboard-shortcut keymap="$default" first-keystroke="ctrl BACK_SLASH"/>
+        </action>
+    </actions>
+</idea-plugin>

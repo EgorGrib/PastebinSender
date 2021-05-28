@@ -1,0 +1,61 @@
+{
+  "appInfo" : {
+    "build" : "203.8084.24",
+    "buildDate" : "Tue, 27 Apr 2021 10:19:28 +0300",
+    "productCode" : "IC",
+    "generated" : "Fri, 28 May 2021 14:36:53 +0300",
+    "os" : "Windows 10 10.0",
+    "runtime" : "JetBrains s.r.o. 11.0.10 11.0.10+8-b1145.96"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 536870912,
+    "numberOfProcessors" : 6,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "test",
+    "numberOfFileProviders" : 1,
+    "totalNumberOfFiles" : 1,
+    "totalNumberOfUpToDateFiles" : 0,
+    "times" : {
+      "totalUpdatingTime" : "7 ms",
+      "indexingTime" : "7 ms",
+      "updatingStart" : "Fri, 28 May 2021 14:36:52 +0300",
+      "updatingEnd" : "Fri, 28 May 2021 14:36:52 +0300",
+      "wasInterrupted" : false
+    },
+    "numberOfIndexingThreads" : 0,
+    "totalStatsPerFileType" : [ {
+      "fileType" : "UNKNOWN",
+      "partOfTotalIndexingTime" : "100,0%",
+      "partOfTotalContentLoadingTime" : "100,0%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "0 B",
+      "indexingSpeed" : "0 B/s",
+      "biggestContributors" : [ {
+        "providerName" : "Refreshed files",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "0 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "100,0%"
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Refreshed files",
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "7 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "UNKNOWN",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "0 B",
+        "partOfTotalIndexingTime" : "100,0%",
+        "partOfTotalContentLoadingTime" : "100,0%"
+      } ],
+      "statsPerIndexer" : [ ],
+      "fastIndexers" : [ ]
+    } ]
+  }
+}

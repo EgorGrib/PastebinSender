@@ -1,0 +1,14 @@
+28/05 14:37:59 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - Process started with '--ide-token E:\PastebinSender\build\idea-sandbox\system\token --recorder FUS --files E:\PastebinSender\build\idea-sandbox\system\event-log-data\logs\FUS\ccf5-4a31-9844-d362377697b8-203.8084.24-release.log --device 1009191157c2005-1d6c-4337-a36e-1d88ef98cd7f --bucket 57 --url https://resources.jetbrains.com/storage/fus/config/v4/%s/%s.json --product IC --product-version 2020.3.4 --user-agent IntelliJ IDEA/203.8084.24'
+28/05 14:37:59 INFO  com.intellij.internal.statistic.uploader.events.ExternalEventsLogger - 1622201879126 STARTED
+28/05 14:37:59 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - IDE token file: E:\PastebinSender\build\idea-sandbox\system\token
+28/05 14:37:59 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - Waiting for 2000ms for IDE to close. Attempt #0
+28/05 14:38:01 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - Start uploading...
+28/05 14:38:01 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - {url:https://resources.jetbrains.com/storage/fus/config/v4/%s/%s.json, product:IC, userAgent:IntelliJ IDEA/203.8084.24(External), internal:false, isTest:false}
+28/05 14:38:01 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - {recorder:FUS, files:E:\PastebinSender\build\idea-sandbox\system\event-log-data\logs\FUS\ccf5-4a31-9844-d362377697b8-203.8084.24-release.log}
+28/05 14:38:01 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - {device:1009191157c2005-1d6c-4337-a36e-1d88ef98cd7f, bucket:57}
+28/05 14:38:02 TRACE com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - ccf5-4a31-9844-d362377697b8-203.8084.24-release.log -> {"Encrypted":false,"FailedPutCount":0,"RequestResponses":[{"RecordId":"SxzQKPQi3GGSnotus22hBsAUy6wDpnCu7wQY9v7005JQsDy07IE30anAnouB56zQqbqj7H9vD4GUZPVLWASBVzql9Kx1NHnOhSofHVdh5FQiB3ihwXgrlIURNISRXLh03MfE65oT9Td/6jcO/A3vgQ9MvBjOnw9XyAAOcGXEBgxaW8Zf64JZX1CYjP4sdA6qMG/LodGlrCabZSatVX4aNYwgDndC6vsN"}]}
+28/05 14:38:02 TRACE com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - Removed sent log: ccf5-4a31-9844-d362377697b8-203.8084.24-release.log
+28/05 14:38:02 INFO  com.intellij.internal.statistic.uploader.events.ExternalEventsLogger - 1622201882833 SEND 1 0 1 [RTpcUGFzdGViaW5TZW5kZXJcYnVpbGRcaWRlYS1zYW5kYm94XHN5c3RlbVxldmVudC1sb2ctZGF0YVxsb2dzXEZVU1xjY2Y1LTRhMzEtOTg0NC1kMzYyMzc3Njk3YjgtMjAzLjgwODQuMjQtcmVsZWFzZS5sb2c=]
+28/05 14:38:02 INFO  com.intellij.internal.statistic.uploader.events.ExternalEventsLogger - 1622201882842 FINISHED
+28/05 14:38:02 TRACE com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - Uploading finished with SEND
+28/05 14:38:02 TRACE com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - Uploaded 1 files.
