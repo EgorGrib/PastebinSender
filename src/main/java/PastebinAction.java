@@ -19,36 +19,33 @@ public class PastebinAction extends AnAction {
 
     @Override
     public void actionPerformed(@NotNull AnActionEvent event) {
-
         Editor editor = event.getData(PlatformDataKeys.EDITOR);
         String selectedCode = editor.getSelectionModel().getSelectedText();
+        if (selectedCode != null) {
+            PastebinFactory factory = new PastebinFactory();
+            Pastebin pastebin = factory.createPastebin("YrIurl4greWI65Aoa3JrMcDqLOTkoRFD");
 
-        PastebinFactory factory = new PastebinFactory();
-        Pastebin pastebin = factory.createPastebin("YrIurl4greWI65Aoa3JrMcDqLOTkoRFD");
+            final PasteBuilder pasteBuilder = factory.createPaste();
+            pasteBuilder.setTitle("Paste from Idea");
+            pasteBuilder.setRaw(selectedCode);
+            pasteBuilder.setMachineFriendlyLanguage("java");
+            pasteBuilder.setVisiblity(PasteVisiblity.Public);
+            pasteBuilder.setExpire(PasteExpire.TenMinutes);
+            final Paste paste = pasteBuilder.build();
+            final Response<String> postResult = pastebin.post(paste);
 
-
-        final PasteBuilder pasteBuilder = factory.createPaste();
-        pasteBuilder.setTitle("Paste from Idea");
-        pasteBuilder.setRaw(selectedCode);
-        pasteBuilder.setMachineFriendlyLanguage("java");
-        pasteBuilder.setVisiblity(PasteVisiblity.Public);
-        pasteBuilder.setExpire(PasteExpire.TenMinutes);
-        final Paste paste = pasteBuilder.build();
-        Messages.showMessageDialog("s", "a", Messages.getInformationIcon());
-        /*
-        final Response<String> postResult = pastebin.post(paste);
-
-        if (postResult.hasError()) {
-            System.out.println("Si è verificato un errore mentre postavo il paste: " + postResult.getError());
-            return;
+            if (postResult.hasError()) {
+                Messages.showMessageDialog("An error occurred while sending the paste: "
+                        + postResult.getError(), "Pastebin Sender", Messages.getErrorIcon());
+                return;
+            }
+            Messages.showMessageDialog("Paste published! Now you will follow the link to see your paste. URL: "
+                    + postResult.get(), "Pastebin Sender", Messages.getInformationIcon());
+            BrowserUtil.browse(postResult.get());
+        } else {
+            Messages.showMessageDialog("Selection is empty, you should select some text!", "Pastebin Sender",
+                    Messages.getErrorIcon());
         }
-        System.out.println("Paste pubblicato! Url: " + postResult.get());
-
-        Messages.showMessageDialog("Paste published! URL: " + postResult.get(),
-                "Pastebin Sender", Messages.getInformationIcon());
-        BrowserUtil.browse(postResult.get());
-
-*/
     }
 
     @Override
