@@ -1,6 +1,6 @@
 # PastebinSender
 A simple plugin for IntelliJ IDEA with which you can easily send the selected code to [pastebin.com](https://pastebin.com/)<br/>
-Used for development auto build system [Gradle](https://gradle.org/) and IntelliJ Platform Plugin SDK.<br/>Configuring and sending paste is done with [java pastebin API](https://github.com/marcoacierno/pastebin-java-api).
+Used for development auto build system Gradle and IntelliJ Platform Plugin SDK.<br/>Configuring and sending paste is done with [java pastebin API](https://github.com/marcoacierno/pastebin-java-api).
 
 ## Getting started
 Go to the [release page](https://github.com/EgorGrib/PastebinSender/releases) to download the jar file.<br/>
